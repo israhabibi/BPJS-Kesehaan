@@ -9,5 +9,15 @@ Tools yang digunakan
 
 Data di simpan dalam file CSV
 
+# Data Yang diambil
 
-# Contoh Data
+- [x] 'Provinsi',
+- [x] 'KotaKab',
+- [x] 'Link',
+- [x] 'TipeFaskes',
+- [x] 'No',
+- [x] 'KodeFaskes',
+- [x] 'NamaFaskes',
+- [x] 'LatLongFaskes',
+- [x] 'AlamatFaskes',
+- [x] 'TelpFaskes'
