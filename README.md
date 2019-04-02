@@ -52,4 +52,4 @@ Data di simpan dalam file CSV
 
 # To Do
 
--[x] Cleansing Data
+- [ ] Cleansing Data -> Masih banyak sampah data
